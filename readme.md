@@ -1,4 +1,5 @@
-## Heyoo everyone, welcome to my git guide
+## Welcome to Git!
 
 - Yo, Jonny here.
+- This is coming from Zane.
 - I'm adding this from "feature-branch".
